@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@types/lodash": "^4.17.27",
+    "@types/node": "^26.6.6",
+    "@types/screeps": "^3.4.0",
+    "typescript": "^7.0.2"
+  }
+}
